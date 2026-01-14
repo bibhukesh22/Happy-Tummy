@@ -238,7 +238,7 @@ section h2 {
     justify-content: space-between;
     align-content: center;
     margin-top: 1rem;
-    
+    gap: 10px;
     height: 2rem;
 
 }
